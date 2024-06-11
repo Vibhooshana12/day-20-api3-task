@@ -1,0 +1,22 @@
+.trend {
+    text-align: center;
+    background-color: rgb(155, 145, 155);
+    color: rgb(10, 9, 9);
+}
+
+body {
+    background-color: rgb(78, 76, 80);
+}
+
+.popular {
+    font-size: 18px;
+}
+
+.main {
+    font-size: 32px;
+}
+
+#breed-details .card {
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
